@@ -15,19 +15,14 @@ Kids Rule
 <message></message> #SEPERATOR - DELETE IF YOU WISH...
 </info>
 
-#PLAYLIST ITEMS#
-<item>
-<title>[COLOR lime]K[/COLOR][COLOR red]I[/COLOR][COLOR yellow]D[/COLOR][COLOR orangered]S[/COLOR] [COLOR blue]C[/COLOR][COLOR pink]I[/COLOR][COLOR cyan]R[/COLOR][COLOR orange]C[/COLOR][COLOR green]U[/COLOR][COLOR lawngreen]I[/COLOR][COLOR aqua]T[/COLOR]</title>
-<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/KidsCircuit_zps7febd2e3.jpeg</thumbnail>
-<link>http://www.youtube.com/watch?v=jATKeMhb05Q</link>
-<message></message>
-</item>
+#PLAYLIST ITEM
 
 <item>
 <title>ABC News</title>
 <thubnail>http://i479.photobucket.com/albums/rr155/albertn198/abc_hero_main_zps7d354053.jpg</thumbnail>
 <link>http://abcnews.go.com/Live/</link>
 </item>
+
 <item>
 <title>Arthur [Is There a Doctor in the House]</title>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/p184303_b_h3_aa_zps60818317.jpg</thumbnail>
@@ -156,4 +151,16 @@ Kids Rule
 <title>The Cat In The Hat Knows A Lot About That[A Tales About Tails</title>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/hqdefault_zpsa92a1130.jpg</thumbnail>
 <link>http://www.youtube.com/watch?v=75GYi6Jazus</link>
+</item>
+
+<item>
+<title> Veggie Tales [The Little Drummer Boy]</title>
+<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/veggie_tales_zps49c4fb7a.jpg</thumbnail>
+<link>http://www.youtube.com/watch?v=IITahg6iGH8</link>
+</item>
+
+<item>
+<title>Veggie Tales [Larry Boy and The Bad Apple]</title>
+<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/veggie_tales_zps49c4fb7a.jpg</thumbnail>
+<link>http://www.youtube.com/watch?v=NIfjEplcrNo&list=PLybUDP_I4gl5HQfue6We9U6oeHjIoe-Ke&index=2</link>
 </item>
