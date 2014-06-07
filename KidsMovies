@@ -3,7 +3,7 @@ Kids Movies
 <fanart>http://i479.photobucket.com/albums/rr155/albertn198/Albertn198XunityGraphics_zps8b16be18.jpg</fanart>
 
 <item>
-<title>[COLOR green][HD][/COLOR] Dolphin Tale</title>
+<title>Dolphin Tale</title>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/dolphin-tale01_zps98cb262d.jpg</thumbnail>
 <link>http://159.253.131.91/index.php?file=3390&start=&hd=0&auth=40773258ae5f24716be90ce182&type=flv&tv=0</link>
 <fanart>http://i479.photobucket.com/albums/rr155/albertn198/dolphin-tale01_zps98cb262d.jpg</fanart>
@@ -22,13 +22,37 @@ Kids Movies
 </item>
 
 <item>
-<title>Tinker Bell and the Lost Treasure</title>
+<title>Ice Age</title>
 <thumbnail></tumbnail>
-<link>http://50.22.50.137/index.php?file=1125&start=&hd=0&auth=40773258ae5f24716be90ce182&type=flv&tv=0</link>
+<link>http://159.253.131.91/index.php?file=358&start=&hd=0&auth=40773258ae5f24716be90ce182&type=flv&tv=0</link>
+</item>
+
+<item>
+<title>Ice Age: The Meltdown</title>
+<thumbnail></tumbnail>
+<link>http://75.126.73.36/index.php?file=359&start=&hd=0&auth=40773258ae5f24716be90ce182&type=flv&tv=0</link>
+</item>
+
+<item>
+<title>Ice Age: Dawn of the Dinosaurs</title>
+<thumbnail></tumbnail>
+<link>http://173.192.81.175/index.php?file=360&start=&hd=0&auth=40773258ae5f24716be90ce182&type=flv&tv=0</link>
+</item>
+
+<item>
+<title>Ice Age: Continental Drift</title>
+<thumbnail></tumbnail>
+<link>http://159.253.145.172/index.php?file=149&start=&hd=0&auth=40773258ae5f24716be90ce182&type=flv&tv=0</link>
 </item>
 
 <item>
 <title>HOP</title>
 <thumbnail></thumbnail>
 <link>http://75.126.196.143/index.php?file=432&start=&hd=0&auth=40773258ae5f24716be90ce182&type=flv&tv=0</link>
+</item>
+
+<item>
+<title>Tinker Bell and the Lost Treasure</title>
+<thumbnail></tumbnail>
+<link>http://50.22.50.137/index.php?file=1125&start=&hd=0&auth=40773258ae5f24716be90ce182&type=flv&tv=0</link>
 </item>
