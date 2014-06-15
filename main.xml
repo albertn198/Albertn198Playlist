@@ -2,15 +2,15 @@ Albertn198 Main
 <poster>[COLOR blue]A[/COLOR][COLOR white]lbertn198[/COLOR]</poster>
 <fanart>http://i479.photobucket.com/albums/rr155/albertn198/Albertn198XunityGraphics_zps8b16be18.jpg</fanart>
 
-[B][COLOR red]- - - - - - - - - - - <name>GANGSTER MOVIES</name> - - - - - - - - - - -[/COLOR][/B]
+<name>[B][COLOR red]- - - - - - - - - - - - - - - - - - - - - GANGSTER MOVIES</name> - - - - - - - - - - - - - - - - - - - - - [/COLOR][/B]
 <thumbnail>http://images5.alphacoders.com/319/319524.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/GangsterMovies</link>
-
-[B][COLOR greenyellow]- - - - - - - - - - -[/COLOR] <name>[COLOR lime]K[/COLOR][COLOR red]I[/COLOR][COLOR yellow]D[/COLOR][COLOR orangered]S[/COLOR] [COLOR blue]C[/COLOR][COLOR pink]I[/COLOR][COLOR cyan]R[/COLOR][COLOR orange]C[/COLOR][COLOR green]U[/COLOR][COLOR lawngreen]I[/COLOR][COLOR aqua]T[/COLOR][COLOR greenyellow]- - - - - - - - - - -[/COLOR][/B]</name>
+[CR]
+<name>[B][COLOR greenyellow]- - - - - - - - - - - - - - - - - - - - -[/COLOR][COLOR lime]K[/COLOR][COLOR red]I[/COLOR][COLOR yellow]D[/COLOR][COLOR orangered]S[/COLOR] [COLOR blue]C[/COLOR][COLOR pink]I[/COLOR][COLOR cyan]R[/COLOR][COLOR orange]C[/COLOR][COLOR green]U[/COLOR][COLOR lawngreen]I[/COLOR][COLOR aqua]T[/COLOR][COLOR greenyellow]- - - - - - - - - - - - - - - - - - - - -[/COLOR][/B]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/KidsCircuit_zps7febd2e3.jpeg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/KidsCircuit</link>
-
-             <name>[COLOR blue]Crime[/COLOR] and [COLOR red]Investigation[/COLOR] [COLOR green][HD][/COLOR]</name>
+[CR]
+<name>[COLOR blue]Crime[/COLOR] and [COLOR red]Investigation[/COLOR] [COLOR green][HD][/COLOR]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/CrimeampInvestigation_zpsbfb99025.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/CrimeandInvestigation</link>
 
@@ -18,7 +18,7 @@ Albertn198 Main
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/LittleBigKidShows_zpsc8d0dae8.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/LittleBigKidShows</link>
 
-             <name>[COLOR lime]Requests[/COLOR]</name>
+<name>[COLOR lime]Requests[/COLOR]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/RequestIcon_zps9d1f4550.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Requests</link>
 
@@ -26,7 +26,7 @@ Albertn198 Main
 <thumbnail></thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/KidsMovies</link>
 
-             <name>Theatre Near You</name>
+<name>Theatre Near You</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/theatrenearyou_zps07a3a6d1.png</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/TheatreNearYou</link>
 
@@ -34,15 +34,11 @@ Albertn198 Main
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/tearjerker_zpsfc0d4116.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/GirlsNight</link>
 
-             <name>Tv Series</name>
-<thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/TVSeries</link>
-
 <name>Throwback Movies</name>
 <thumbnail></thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/ThrowbackMovies</link>
 
-             <name>NBC News Dateline</name>
+<name>NBC News Dateline</name>
 <thumbnail></thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/NBCNEWS</link>
 
