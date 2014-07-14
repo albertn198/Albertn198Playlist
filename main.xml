@@ -4,10 +4,10 @@ Albertn198 Main
 
 
 
-<name>[B][COLOR red]──────────────────────────────────────────────────────────────── GANGSTER MOVIES[/COLOR][/B]</name>
-<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/GangsterMoviesHD_zps4eb59a5b.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/GangsterMovies</link>
-[CR]
+<name>[B][COLOR lawngreen]──────────────────────────────────────────────────────────────── Kids Circuit[/COLOR][/B]</name>
+<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/KidsCircuit_zps7febd2e3.jpeg</thumbnail>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/KidsCircuit</link>
+
 <name>[COLOR gold]FREE VIP[/COLOR]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/FreeVip_zps0645f354.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/FREEVIP.xml</link>
@@ -19,7 +19,6 @@ Albertn198 Main
 <name>[B][COLOR pink]Little[/COLOR] [COLOR orange]Big[/COLOR] [COLOR cyan]Kid[/COLOR] [COLOR purple]Shows[/COLOR][/B]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/LittleBigKidShows_zpsc8d0dae8.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/LittleBigKidShows</link>
-
 
 <name>────────────────────────────────────────────────────────────────[COLOR deeppink][B]Girls Night[/B] [/COLOR]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/girlsnight_zps5a64ed30.jpg</thumbnail>
@@ -37,11 +36,11 @@ Albertn198 Main
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/RequestIcon_zps9d1f4550.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Requests</link>
 
-<name>──────────────────────────────────────────────────────────────── [COLOR yellow][B]Throwback Movies[/B][/COLOR]</name>
+<name>──────────────────────────────────────────────────────────────── [COLOR mediumspringgreen][B]Throwback Movies[/B][/COLOR]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/THROWBACKMOVIESFINAL_zpsdedeea97.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/ThrowbackMovies</link>
 
-<name>[COLOR springgreen][B]The 90's[/B][/COLOR]</name>
+<name>[COLOR orangered][B]The 90's[/B][/COLOR]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/90sshows_zpsa9466442.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/The90s</link>
 
@@ -53,14 +52,12 @@ Albertn198 Main
 <thumbnail>https://mnn.s3.amazonaws.com/uploads/attachment/image/0000/0000/2838/full_8c7ca222-f7d7-41aa-aab4-7f75cf08d20d.png</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/documantaries</link>
 
-<name>──────────────────────────────────────────────────────────────── TESTING PURPOSES</name>
+<name>[COLOR red][B]──────────────────────────────────────────────────────────────── GANGSTER MOVIES[/COLOR][/B]</name>
+<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/GangsterMoviesHD_zps4eb59a5b.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/GangsterMovies</link>
+
+<name>TESTING PURPOSES</name>
 <thumbnail>https://s3.amazonaws.com/media-p.slid.es/thumbnails/genesisdomingo/49ee0e/for-testing-purposes-only.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Testing</link>
-
-<name>Kids Circuit</name>
-<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/KidsCircuit_zps7febd2e3.jpeg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/KidsCircuit</link>
-
-
 
 
