@@ -5,19 +5,20 @@ Kids Rule
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-<message>[COLOR lime]                       Kids Circuit[/COLOR]</message>
+<message>██████████████████████████████████████[COLOR lime]WELCOME to KIDS CIRCUIT[/COLOR]</message>
 <message>[CR]</message>
 <message>[COLOR yellow]Everything is in alphabetical order for your convenience[/COLOR]</message>
 <message>[COLOR red]Report dead links on twitter @Albertn198[/COLOR]</message>
 <message></message>
 <message>[CR]</message>
-<message></message>
-<name>[COLOR lime][B]KIDS MOVIES[/B]  click here[/COLOR]</name>
+<message>[CR]</message>
+<name>██████████████████████████████████████[COLOR lime][B]KIDS MOVIES[/B] █████████████████████ click here[/COLOR]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/KIDSMOVIESFINAL_zpsf36aed4f.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/KidsMovies</link>
 <message></message> #SEPERATOR - DELETE IF YOU WISH...
 </info>
-
+[CR]
+[CR]
 #PLAYLIST ITEM
 
 <item>
