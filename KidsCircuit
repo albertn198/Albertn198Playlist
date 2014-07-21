@@ -69,47 +69,31 @@ Kids Rule
 </item>
 
 
-
-
 <item>
-<title>Bubble Guppies</title>
-<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/bubbleguppies_zps7223dedd.png</thumbnail>
-<link>http://www.youtube.com/watch?v=jATKeMhb05Q</link>
+<name>Bubble Guppies</name>
+ <thumbnail>http://upload.wikimedia.org/wikipedia/en/e/ea/BubbleGuppiesTitlecard.png</thumbnail>
+ <link>http://gdata.youtube.com/feeds/api/playlists/PLireGAEqt1acM39nvioOwmkzZFJt7nM3v</link>
 </item>
 
 <item>
-<title>Charlie and Lola [I'm Really Ever So Not Well]</title>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBAGZyohHoLjNKqpp4CqBf4DDH4cJScMEN-q0NIlk8LrQIb8kY</thumbnail>
-<link>http://www.veoh.com/watch/v15603796AnkWb2zw</link>
-</item>
-
-
-
-<item>
-<title>Doc McStuffins [A Little Cuddle Goes A Long Way]</title>
-<thumbnail>http://images.primewire.ag/thumbs/2745173_Doc_Mcstuffins_Vol_3_A_Little_Cuddle_Goes_A_Long_Way.jpg</thumbnail>
-<link>http://www.novamov.com/video/532f2588a172a</link>
-</item>
-
-
-
-<item>
-<title>Doodlebops [The Mighty Moe Machine]</title>
-<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/doodle_wp3_1024jpgw300h225_zps67327ef4.jpg</thumbnail>
-<link>http://www.youtube.com/watch?v=A0-EWH8MqW8</link>
+<name>Charlie and Lola</name>
+ <thumbnail>http://www.kids-partyshop.co.uk/media/catalog/category/Charlie_and_Lola.jpg</thumbnail>
+ <link>http://gdata.youtube.com/feeds/api/playlists/PL94pZArWM9YBYJYXBCr6ifGtfFh8wj_ss</link>
 </item>
 
 <item>
-<title>Doodlebops [Moon Dootle]</title>
-<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/doodle_wp3_1024jpgw300h225_zps67327ef4.jpg</thumbnail>
-<link>http://www.youtube.com/watch?v=W1xlEKzHOu0</link>
+<name>Doc McStuffins</name>
+ <thumbnail>http://i1.ytimg.com/sh/VgxMpWio2Tw/showposter.jpg?v=5284b693</thumbnail>
+ <link>http://gdata.youtube.com/feeds/api/playlists/PLlU9cGN0vTTOfflVLubDZDRmGjUowSbfM</link>
 </item>
 
 <item>
-<title>Doodlebops [Bird is the Word]</title>
-<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/doodle_wp3_1024jpgw300h225_zps67327ef4.jpg</thumbnail>
-<link>http://www.youtube.com/watch?v=8G7jni8lRkg</link>
+<name>Doodlebops</name>
+ <thumbnail>http://compass-images-3.comcast.net/ccp_img/pkr_prod/VMS_POC_Image_Ingest/8/960/1338401705655_doodlebopsseason3allbymyself_1024x512_PIXBM_Overlay_1280_640_1280x640_19830936.jpg</thumbnail>
+ <link>http://gdata.youtube.com/feeds/api/playlists/PLmm8lpvpp9sSxxATxxoSV1FllLbo9-yLz</link>
 </item>
+
+
 
 <item>
 <title>Go Diego Go!</title>
