@@ -32,6 +32,12 @@ Kids Rule
 #PLAYLIST ITEM
 
 <item>
+<title>[COLOR red]PBS[/COLOR]</title>
+<link>rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://nowwatchtvlive.com/channel-tab-frame/pbschannel-1.php live=1 timeout=10</link>
+<thumbnail>http://www.briansolis.com/wp-content/uploads/2009/11/pbs_logo.jpg</thumbnail>
+</item>
+
+<item>
 <name>Arthur</name>
 <thumbnail>http://static.tumblr.com/c8de0a6fc524c8d486db5d8c65fbd213/ldlhmxf/e3Dn4nsb6/tumblr_static_efpa6p5rewow88s88s8cws084.jpg</thumbnail>
 <link>http://gdata.youtube.com/feeds/api/playlists/PLFA7C09FE6161E06E</link>
