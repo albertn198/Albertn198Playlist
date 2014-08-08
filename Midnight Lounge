@@ -9,7 +9,7 @@
 
 
 <item>
-<title>[COLOR green]HD[/COLOR] Butt</title>
+<title>[COLOR green]HD[/COLOR] But Go</title>
 <thumbnail></thumbnail>
 <link>rtmp://lm01.everyon.tv/ptv/phd772</link>
 </item>
@@ -21,9 +21,15 @@
 </item>
 
 <item>
-<title>EroXX HD</title>
+<title>[COLOR green]HD[/COLOR] EroXX</title>
 <thumbnail></thumbnail>
 <link>http://spi-live.ercdn.net/spi/eroxhd_0_1/playlist.m3u8</link>
+</item>
+
+<item>
+<title>[COLOR green]HD[/COLOR] J Hot Girl</title>
+<thumbnail></thumbnail>
+<link>rtmp://111.118.21.75/ptv2/phd59</link>
 </item>
 
 <item>
@@ -59,5 +65,5 @@
 <item>
 <title>[COLOR green]HD[/COLOR] Playboy</title>
 <thumbnail></thumbnail>
-<link>rtmp://111.118.21.77:1935/ptv3/phd497</link>
+<link>rtmp://111.118.21.77:1935/ptv3/phd499</link>
 </item>
