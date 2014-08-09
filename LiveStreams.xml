@@ -2,8 +2,7 @@
 <fanart>http://www.themoviebanter.com/wp-content/uploads/2012/04/free_desktop_wallpaper_logo_live_streaming_1024x7686.gif</fanart>
 
 
-<item>
-<title>Discovery Channel</title>
+<name>Discovery Channel</name>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20100728112637/logopedia/images/3/34/Discovery_Channel_2000.png</thumbnail>
-<link> rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to:1935/edge/own38fuo0upig6w pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/ token=87adjuljlsadkf87HD</link>
-</item>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/discovery%20channel</link>
+
