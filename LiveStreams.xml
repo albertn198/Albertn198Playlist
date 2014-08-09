@@ -11,7 +11,7 @@
 <item>
 <title>Cartoon Network</title>
 <thumbnail></thumbnail>
-<link>rtmp://$OPT:rtmp-raw=rtmp://31.204.154.141/live/ pageUrl=http://www.tvonlinestreams.com playpath=azb5adnw4mlioah  live=1</link>
+<link>http://goo.gl/2VwrKS</link>
 </item>
 
 <item>
@@ -41,11 +41,11 @@
 <item>
   <title>NFL</title>
   <thumbail></thumbail>
-  <link>rtmp://46.246.29.130:1935/stream/ playpath=bdpZdSfpz0.stream swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=NFL1</link>
+  <link>rtmp://195.154.220.115:1935/private/nflsp</link>
 </item>
 
 <item>
 <title>Disney Junior</title>
 <thumbnail></thumbnail>
-<link>rtmp://$OPT:rtmp-raw=rtmp://watch.ilive.to:1935/edge/tljgzu7oqfmr7h0 pageUrl=http://www.ilive.to swfUrl=http://www.ilive.to/ token=87adjuljlsadkf87HD</link>
+<link>http://goo.gl/11n43L</link>
 </item>
