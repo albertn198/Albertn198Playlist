@@ -41,7 +41,7 @@
 <item>
   <title>NFL</title>
   <thumbail></thumbail>
-  <link>rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/ playpath=bdpZdSfpz0.stream swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=NFL1</link>
+  <link>rtmp://46.246.29.130:1935/stream/ playpath=bdpZdSfpz0.stream swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=NFL1</link>
 </item>
 
 <item>
