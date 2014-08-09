@@ -9,7 +9,7 @@
 
 
 <item>
-<title>[COLOR green]HD[/COLOR] But Go</title>
+<title>But Go</title>
 <thumbnail></thumbnail>
 <link>rtmp://lm01.everyon.tv/ptv/phd772</link>
 </item>
@@ -21,7 +21,7 @@
 </item>
 
 <item>
-<title>[COLOR green]HD[/COLOR] Delight Empire</title>
+<title>Delight Empire</title>
 <thumbnail></thumbnail>
 <link>rtmp://111.118.21.75/ptv2/phd63</link>
 </item>
@@ -39,7 +39,7 @@
 </item
 
 <item>
-<title>[COLOR green]HD[/COLOR] J Hot Girl</title>
+<title>J Hot Girl</title>
 <thumbnail></thumbnail>
 <link>rtmp://111.118.21.75/ptv2/phd59</link>
 </item>
@@ -57,15 +57,21 @@
 </item>
 
 <item>
-<title>[COLOR green]HD[/COLOR] Midnight </title>
+<title>Midnight </title>
 <thumbnail></thumbnail>
 <link>rtmp://lm02.everyon.tv/ptv2/phd766</link>
 </item>
 
 <item>
-<title>[COLOR green]HD[/COLOR] Penthouse</title>
+<title>Penthouse</title>
 <thumbnail></thumbnail>
 <link>rtmp://lm04.everyon.tv:1935/ptv4/phd927</link>
+</item>
+
+<item>
+<title>Pink Tv</title>
+<thumbnail></thumbnail>
+<link>http://iptv-iptv.dyndns.tv/fann1/fann1/186.ch</link>
 </item>
 
 <item>
