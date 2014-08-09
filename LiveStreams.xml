@@ -23,7 +23,7 @@
 <item>
 <title>National Geo</title>
 <thumbnail>http://images.nationalgeographic.com/wpf/sites/common/i/presentation/NGLogo560x430-cb1343821768.png</thumbnail>
-<link>rtmp://113.164.0.235:80/medianet_2014/ngc_hd-high</link>
+<link>rtmp://$OPT:rtmp-raw=rtmpe://173.208.201.162:1935/goLive playpath=GD727mYru5vAmOd swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#</link>
 </item>
 
 <item>
