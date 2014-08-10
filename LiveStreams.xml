@@ -2,11 +2,16 @@
 <fanart>http://www.themoviebanter.com/wp-content/uploads/2012/04/free_desktop_wallpaper_logo_live_streaming_1024x7686.gif</fanart>
 
 <item>
-  <title>Shark Fin [Live Cam]</title>
+  <title>Bein Sports HD1</title>
   <thumbnail></thumbnail>
-  <link>http://165a7.v.fwmrm.net/ad/g/1?prof=91559:discovery_live&nw=91559&ssnw=91559&asnw=91559&csid=sharkweek-sharkfincam1-downstream&caid=sharkweek-sharkfincam1-downstream&vprn=37691348&resp=vast2&crtp=vast2s&flag=+amcb+emcr+sltp</link>
+  <link>http://lion-zone.net/tv/files/tv/sport/beIN1.m3u</link>
 </item>
 
+<item>
+  <title>Bein Sports HD2</title>
+  <thumbnail></thumbnail>
+  <link>http://lion-zone.net/tv/files/tv/sport/beIN2.m3u</link>
+</item>
 
 <item>
   <title>Shark Week</title>
