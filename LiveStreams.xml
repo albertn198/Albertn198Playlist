@@ -4,7 +4,7 @@
 <item>
   <title>Bein Sports HD1</title>
   <thumbnail></thumbnail>
-  <link>rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=discovery swfUrl=http://www.tvzune.com/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&dicovery</link>
+  <link>rtmp://$OPT:rtmp-raw=rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=discovery swfUrl=http://www.tvzune.com/player.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&dicovery</link>
 </item>
 
 <item>
