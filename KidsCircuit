@@ -22,7 +22,7 @@ Kids Rule
 <message></message>
 <message></message>
 <message>[CR]</message>
-<name>██████████████████████████████████████[COLOR aqua]*[/COLOR] [COLOR yellow]*[/COLOR] [COLOR dodgerblue]*[/COLOR][COLOR lime][B]KIDS MOVIES[/B] ███████ click here[/COLOR][COLOR aqua]*[/COLOR] [COLOR yellow]*[/COLOR] [COLOR dodgerblue]*[/COLOR]</name>
+<name>██████████████████████████████████████[COLOR aqua]*[/COLOR] [COLOR yellow]*[/COLOR] [COLOR dodgerblue]*[/COLOR][COLOR lime][B] KIDS MOVIES[/B] ███████ click here [/COLOR][COLOR aqua]*[/COLOR] [COLOR yellow]*[/COLOR] [COLOR dodgerblue]*[/COLOR]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/KIDSMOVIESFINAL_zpsf36aed4f.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/KidsMovies</link>
 <message></message> #SEPERATOR - DELETE IF YOU WISH...
@@ -86,11 +86,6 @@ Kids Rule
  <link>http://gdata.youtube.com/feeds/api/playlists/PL4UfUcuUbP176-oemO-bTwoXqn81l6GB6</link>
 </item>
 
-<item>
-<name>Mickey Mouse Clubhouse</name>
- <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/mickey_mouse_clubhouse_disney_wallpaper_zps4d4a19df.jpg</thumbnail>
- <link>http://gdata.youtube.com/feeds/api/playlists/PLUBW8DKEfdfJKWQSYAXk3CeVsbyG1e-7_</link>
-</item>
 
 <item>
 <title>Go Diego Go!</title>
@@ -114,6 +109,18 @@ Kids Rule
 <title>Max and Ruby [Max's Rocket Run]</title>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQnukIHghLT7BewYton-4BJ7s7LVXffwJQhnTzaB6onazgjrcBBg</thumbnail>
 <link>http://www.veoh.com/watch/v661594WG2PYkew?h1=Max+and+Ruby+-+Max%27s+Rocket+Run</link>
+</item>
+
+<item>
+<name>Mickey Mouse Clubhouse</name>
+ <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/mickey_mouse_clubhouse_disney_wallpaper_zps4d4a19df.jpg</thumbnail>
+ <link>http://gdata.youtube.com/feeds/api/playlists/PLUBW8DKEfdfJKWQSYAXk3CeVsbyG1e-7_</link>
+</item>
+
+<item>
+<name>[COLOR green]HD[/COLOR] Mickey Mouse</name>
+<thumbnail></thumbnail>
+<link>http://www.icefilms.info/tv/series/5/4327#2</link>
 </item>
 
 <item>
