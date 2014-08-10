@@ -16,7 +16,7 @@
 </item>
 
 <item>
-  <title>NBC</title>
+  <title>ABC</title>
   <thumbnail></thumbnail>
-  <link>rtmpe://173.208.201.162:1935/goLive playpath=KZDhUvxFIj6q7IY swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#</link>
+  <link>rtsp://93.120.27.78:1935/live/abcusa2.stream</link>
 </item>
