@@ -2,67 +2,53 @@ Albertn198 Main
 <poster>[COLOR blue]A[/COLOR][COLOR white]lbertn198[/COLOR]</poster>
 <fanart>http://i479.photobucket.com/albums/rr155/albertn198/albertn198xunity_zpsb236c70a.jpg</fanart>
 
-
-
-<name>[COLOR chartreuse]Live Streams[/COLOR]</name>
-<thumbnail>http://skystreamx.com/wp-content/uploads/2014/04/XBMC-Live-Streams.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/LiveStreams.xml</link>
-
 <name>[B][COLOR lawngreen]──────────────────────────────────────────────────────────────── Kids Circuit[/COLOR][/B]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/kidscircuitfinalofficial_zps0c224ba8.jpeg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/KidsCircuit</link>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Kids%20Circuit.xml</link>
 
 <name>[COLOR gold]FREE VIP[/COLOR]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/FreeVIP_zps9785d632.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/FREEVIP.xml</link>
-[CR]
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/FREEVIP.xml</link>
+
 <name>────────────────────────────────────────────────────────────────[COLOR teal][B]Theatre Near You[/B][/COLOR]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/theatrenearyou_zps07a3a6d1.png</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/TheatreNearYou</link>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Theater%20Near%20You.xml</link>
 
-<name>[B][COLOR pink]Little[/COLOR] [COLOR orange]Big[/COLOR] [COLOR cyan]Kid[/COLOR] [COLOR purple]Shows[/COLOR][/B]</name>
-<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/LittleBigKidShows_zpsc8d0dae8.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/LittleBigKidShows</link>
+<name>[COLOR red][B]GANGSTER MOVIES[/COLOR][/B]</name>
+<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/GangsterMoviesHD_zps4eb59a5b.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Gangster%20Movies.xml</link>
 
 <name>────────────────────────────────────────────────────────────────[COLOR deeppink][B]Girls Night[/B] [/COLOR]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/girlsnight_zps5a64ed30.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/GirlsNight</link>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Girls%20Night.xml</link>
 
-<name>Tu Cine</name>
-<thumbnail>http://static.wixstatic.com/media/8c2cc0_2e33f24048c81517857748605dd33cbe.jpg_srz_218_239_85_22_0.50_1.20_0.00_jpg_srz</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Peliculas</link>
+<name>Actors</name>
+<thmbnail></thmbnail>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Actors.xml</link>
 
 <name>──────────────────────────────────────────────────────────────── [B][COLOR blue]Crime[/COLOR] and [COLOR red]Investigation[/COLOR][/B]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/CrimeampInvestigation_zpsbfb99025.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/CrimeandInvestigation</link>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Crime%20and%20Investigation.xml</link>
 
-<name>[B][COLOR lime]Requests[/COLOR][/B]</name>
-<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/RequestIcon_zps9d1f4550.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Requests</link>
 
 <name>──────────────────────────────────────────────────────────────── [COLOR mediumspringgreen][B]Throwback Movies[/B][/COLOR]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/THROWBACKMOVIESFINAL_zpsdedeea97.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/ThrowbackMovies</link>
 
-<name>[COLOR orangered][B]The 90's[/B][/COLOR]</name>
-<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/90sshows_zpsa9466442.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/The90s</link>
+<name>Documentaries</name>
+<thumbnail>https://mnn.s3.amazonaws.com/uploads/attachment/image/0000/0000/2838/full_8c7ca222-f7d7-41aa-aab4-7f75cf08d20d.png</thumbnail>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Documentaries.xml</link>
 
 <name>────────────────────────────────────────────────────────────────[COLOR dodgerblue][B] Isaacs Personal List[/B][/COLOR]</name>
 <thumbnail>http://www.epicwallpapers.net/thumbnails/large_1080p_Game_wallpapers_4__98933.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Isaac</link>
 
-<name>Documentaries</name>
-<thumbnail>https://mnn.s3.amazonaws.com/uploads/attachment/image/0000/0000/2838/full_8c7ca222-f7d7-41aa-aab4-7f75cf08d20d.png</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/documantaries</link>
-
-<name>[COLOR red][B]──────────────────────────────────────────────────────────────── GANGSTER MOVIES[/COLOR][/B]</name>
-<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/GangsterMoviesHD_zps4eb59a5b.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/GangsterMovies</link>
-
 <name>TESTING PURPOSES</name>
 <thumbnail>https://s3.amazonaws.com/media-p.slid.es/thumbnails/genesisdomingo/49ee0e/for-testing-purposes-only.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Testing</link>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Testing.xml</link>
+
+
+
 
 
 
