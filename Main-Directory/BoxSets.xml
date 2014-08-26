@@ -2,12 +2,18 @@
 <fanart></fanart>
 <thumbnail></thumbnail>
 
+<message>[COLOR red]All boxsets are in Stunning HD (unless specified)[/COLOR]</message>
+<message>[CR]</message>
 
-
-<name>Transformers</name>
+<name>[COLOR dodgerblue]Transformers[/COLOR]</name>
 <thumbnail>http://p1.pichost.me/i/19/1426066.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Box-Set/Transformers.xml</link>
 
-<name>The Bourne Series</name>
+<name>[COLOR white]The Bourne Series[/COLOR]</name>
 <thumbnail>http://s3.thcdn.com/productimg/0/600/600/76/10641276-1348824394-367206.png</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Box-Set/Bourne.xml</link>
+
+
+<name>[COLOR dodgerblue]The Fast & the Furious[/COLOR]</name>
+<thumbnail>http://www.cityonfire.com/wp-content/uploads/2014/02/97909_front.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Box-Set/Fast%20&%20Furious.xml</link>
