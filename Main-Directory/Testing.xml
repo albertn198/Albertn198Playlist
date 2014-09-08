@@ -4,7 +4,13 @@
 
 <item>
 <title>ESPN</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/ playpath=46terg.stream swfUrl=http://04stream.com/p/stv39/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPN</link>
+<link>
+<sublink>rtmp://tv.tvsector.com/live playpath=z050201.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/espn-america-hd/ timeout=60</sublink>
+  <sublink>rtmp://46.105.115.183/edge playpath=mo9406kbg1gjpse swfUrl=http://cdn.static.ilive.to/jwplayer/player_new.swf pageUrl=http://www.ilive.to/view/22632/hull14 timeout=60</sublink>
+  <sublink>rtmp://46.19.139.154/stream playpath=espakk?id=15652 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/espakk/1/520/380 timeout=60</sublink>
+  <sublink></sublink>
+  <sublink></sublink>
+</link>
 <thumbnail></thumbnail>
 </item>
 
