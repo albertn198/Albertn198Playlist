@@ -8,11 +8,11 @@
 <item>
 <title>ESPN</title>
 <thumbnail>http://cdn.fansided.com/wp-content/blogs.dir/229/files/2013/06/espn.jpg</thumbnail>
-<link>rtmp://$OPT:rtmp-raw=rtmp://31.7.58.122:1935/stream/Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf live=1</link>
+<link>rtmp://31.7.58.122:1935/stream/Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf live=1</link>
 </item>
 
 <item>
   <title>NFL Network</title>
   <thumbnail>http://nflricheisen.files.wordpress.com/2012/04/network-logo.jpg</thumbnail>
-  <link>rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://04stream.com/p/boopo.swf live=1</link>
+  <link>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://04stream.com/p/boopo.swf live=1</link>
 </item>
