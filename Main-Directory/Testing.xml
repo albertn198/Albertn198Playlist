@@ -2,26 +2,11 @@
 <fanart>http://www.testingspot.net/tst-cloud.png</fanart>
 <thumbnail>http://www.testingspot.net/tst-cloud.png</thumbnail>
 
+
+
+
 <item>
 <title>ESPN</title>
-<link>rtmp://live2.fifaembed.com:1935/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMTQgODo1MzoxNCBQTSZoYXNoX3ZhbHVlPVNzaDFveWx2R0oyNEFOdkp1QmN3Wmc9PSZ2YWxpZG1pbnV0ZXM9MjA=/ playpath=espnusa-hq swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/espn.php?width=607&height=437&domain=cricwebtv.com live=1 timeout=10</link>
 <thumbnail>http://cdn.fansided.com/wp-content/blogs.dir/229/files/2013/06/espn.jpg</thumbnail>
-</item>
-
-<item>
-<title>ESPN HD</title>
-        <link>rtmp://tv.tvsector.com/live playpath=z050201.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/espn-america-hd/ timeout=60</link>
-        <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_hd.png</thumbnail>
-      </item>
-
-<item>
-<title>Fox Sports 1</title>
-<link>rtmp://31.220.0.194:1935/live playpath=fox1x swfUrl=>http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=fox1x&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
-<thumbnail>http://www.eurweb.com/wp-content/uploads/2013/04/fox-sports.jpg</thumbnail>
-</item>
-
-<item>
-<title>ESPN</title>
-<thumbnail></thumbnail>
-<link>http://104.28.26.21</link>
+<link>rtmp://$OPT:rtmp-raw=rtmp://31.7.58.122:1935/stream/Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf live=1</link>
 </item>
