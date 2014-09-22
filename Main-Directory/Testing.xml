@@ -19,3 +19,8 @@
 <link>rtmp://31.220.0.194:1935/live playpath=fox1x swfUrl=>http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=fox1x&vw=620&vh=490 token=%ZZri(nKa@#Z</link>
 <thumbnail>http://www.eurweb.com/wp-content/uploads/2013/04/fox-sports.jpg</thumbnail>
 </item>
+
+<name>Sports Pack</name>
+<link>sp</link>
+<thumbnail>spo</thumbnail>
+<mode>443</mode>
