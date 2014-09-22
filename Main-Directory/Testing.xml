@@ -20,7 +20,7 @@
 <thumbnail>http://www.eurweb.com/wp-content/uploads/2013/04/fox-sports.jpg</thumbnail>
 </item>
 
-<name>Sports Pack</name>
-<link>sp</link>
-<thumbnail>spo</thumbnail>
-<mode>443</mode>
+<item>ESPN</item>
+<thumbnail></thumbnail>
+<link>http://104.28.26.21</link>
+</item>
