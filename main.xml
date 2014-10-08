@@ -3,7 +3,7 @@ Albertn198 Main
 <fanart>http://i479.photobucket.com/albums/rr155/albertn198/albern198_zps5ccd96ea.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/xunitytalkplaylist/xunitytalk_playlist/master/images/Albertn198.png</thumbnail>
 
-<name>[COLOR darkblue][B]HD MOVIES[/B][/COLOR]</name>
+<name>[COLOR darkgreen][B]HD MOVIES[/B][/COLOR]</name>
 <thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/07/hd-movies.jpeg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/HD%20Movies.xml</link>
 
@@ -31,9 +31,9 @@ Albertn198 Main
 <thumbnail></thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Actors.xml</link>
 
-<name>──────────────────────────────────────────────────────────────── [B][COLOR blue]CRIME[/COLOR] AND [COLOR red]INVESTIGATION[/COLOR][/B]</name>
-<thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/CrimeampInvestigation_zpsbfb99025.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Crime%20and%20Investigation.xml</link>
+<name>──────────────────────────────────────────────────────────────── [B][COLOR blue]UFC[/COLOR][/B]</name>
+<thumbnail>http://www.sportsbettinginfo.com/wp-content/uploads/2014/01/ufc-ultimate-fighting-championship.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Fight-Club/main.xml</link>
 
 <name>[B][COLOR orange]BOX SETS[/COLOR][/B]</name>
 <thumbnail>http://i479.photobucket.com/albums/rr155/albertn198/boxsets_zps49dc394b.jpg</thumbnail>
@@ -47,6 +47,4 @@ Albertn198 Main
 <thumbnail>https://s3.amazonaws.com/media-p.slid.es/thumbnails/genesisdomingo/49ee0e/for-testing-purposes-only.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Testing.xml</link>
 
-<name>UFC</name>
-<thumbnail>http://www.sportsbettinginfo.com/wp-content/uploads/2014/01/ufc-ultimate-fighting-championship.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Fight-Club/main.xml</link>
+
