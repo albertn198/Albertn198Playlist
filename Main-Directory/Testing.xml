@@ -44,3 +44,9 @@
 </link>
 <thumbnail>http://www.waitingfornextyear.com/wp-content/uploads/2011/10/Red-Zone-Channel.jpg</thumbnail>
 </item>
+
+<item>
+<title>ESPN USA</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=espn_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=espn_usa&vw=600&vh=430</link>
+<thumbnail>http://www.desistreams.tv/images/espn.jpg</thumbnail>
+</item>
