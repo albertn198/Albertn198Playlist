@@ -3,50 +3,9 @@
 <thumbnail>http://www.testingspot.net/tst-cloud.png</thumbnail>
 
 <item>
-  <title>UFC 178: Prelims</title>
-  <thumbnail>http://www.heartandcrown.ca/uploads/ufc178.jpg</thumbnail>
-  <link>http://sharesix.com/f/8bJBZY</link>
-</item>
-
-<item>
-  <title>UFC 178: Main Card</title>
-  <thumbnail>http://www.heartandcrown.ca/uploads/ufc178.jpg</thumbnail>
-  <link>http://movreel.com/s5g3nntxl7zs</link>
+  <title>48th Annual CMA Awards</title>
+  <thumbnail>http://www.countrymusicrocks.net/wp-content/uploads/2014/09/48th-Annual-CMA-Awards-2014-CountryMusicRocks.net_.jpg</thumbnail>
+  <link>http://www.thevideo.me/0tfcmizg1bly</link>
 </item>
 
 
-<item>
-  <title>Lock Up</title>
-  <thumbnail>http://images.tvrage.com/shows/23/22203.jpg</thumbnail>
-  <link>http://movreel.com/u4wuj0hga792</link>
-</item>
-
-<item>
-  <title>Live free or die [national geographic]</title>
-  <thumbnail></thumbnail>
-  <link>http://klxtv.com/play/video.php?shows=286522-1-2</link>
-</item>
-
-<item>
-<title>NFL Network</title>
-<link>
- <sublink>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</sublink>
- <sublink>rtmpe://46.246.29.149:1935/live/jan22 pageUrl=http://www.hdcast.tv</sublink>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
-</item>
-
-<item>
-<title>NFL Redzone</title>
-<link>
- <sublink>rtmp://46.246.29.144:1935/stream/ playpath=0XB9uW6aK5.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&st=14t3o4e42695y244x474n294z214z2t21484x2q2p213z2&adx=&stream=f5x28484i5c474x27454q2a4s23413n23485c313l4y323j5x4b4t27433q284x2q2v2u234r274z2u214t3o4e42695y244x4u373v5j4r5d4a225h5c454i4g4p2345634t2y3s2z284337454v2c434a4y2x2j5w2m5d4i594w2u2j574u2a4r2c43384k59413v2w2s2t2343434t2y3s2p2l5u4&sooor=MTU=&str=is&idom=firstrowus1.eu</sublink>
- <sublink>rtmpe://46.246.29.149:1935/live/streamhdking310 pageUrl=http://www.hdcast.tv</sublink>
-</link>
-<thumbnail>http://www.waitingfornextyear.com/wp-content/uploads/2011/10/Red-Zone-Channel.jpg</thumbnail>
-</item>
-
-<item>
-<title>ESPN USA</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=espn_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true timeout=15 pageUrl=http://www.ukcast.tv/embed.php?u=espn_usa&vw=600&vh=430</link>
-<thumbnail>http://www.desistreams.tv/images/espn.jpg</thumbnail>
-</item>
