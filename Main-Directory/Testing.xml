@@ -14,6 +14,8 @@
   <link>http://lp.longtailvideo.com/5/ova/blank.mp4</link>
 </item>
 
+<item>     <title>ESPN America HD</title>    <link>http://link9</link>     <media:stream url="rtmp://s7.webport.tv/live/z050201.stream swfUrl=http://tvsector.com/mediaplayer/player.swf pageUrl=http://tvsector.com/ playpath=z050201.stream live=1" type="video" />     <media:thumbnail url="http://yoursite.com/img.jpg" />  </item>
+
 <item>
   <title>[COLOR lime]Albert[/COLOR]</title>
   <thumbnail></thumbnail>
