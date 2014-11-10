@@ -2,22 +2,4 @@
 <fanart>http://www.testingspot.net/tst-cloud.png</fanart>
 <thumbnail>http://www.testingspot.net/tst-cloud.png</thumbnail>
 
-<item>
-  <title>48th Annual CMA Awards</title>
-  <thumbnail>http://www.countrymusicrocks.net/wp-content/uploads/2014/09/48th-Annual-CMA-Awards-2014-CountryMusicRocks.net_.jpg</thumbnail>
-  <link>http://www.thevideo.me/0tfcmizg1bly</link>
-</item>
-
-<item>
-  <title>[COLOR cyan]Albert[/COLOR]</title>
-  <thumbnail></thumbnail>
-  <link>http://lp.longtailvideo.com/5/ova/blank.mp4</link>
-</item>
-
-<item>     <title>ESPN America HD</title>    <link>http://link9</link>     <media:stream url="rtmp://s7.webport.tv/live/z050201.stream swfUrl=http://tvsector.com/mediaplayer/player.swf pageUrl=http://tvsector.com/ playpath=z050201.stream live=1" type="video" />     <media:thumbnail url="http://yoursite.com/img.jpg" />  </item>
-
-<item>
-  <title>[COLOR lime]Albert[/COLOR]</title>
-  <thumbnail></thumbnail>
-  <link>http://cricfree.sx/update/espnusa.php</link>
-</item>
+<item>     <title>ESPN</title>    <link>http://link5</link>     <media:stream url="rtmp://149.255.34.122/stream swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl="http://www.liveflash.tv/embedplayer/espn590/1/600/400objectEncoding@" playpath=espn590?id=16527@ live=1" type="video" />     <media:thumbnail url="http://yoursite.com/img.jpg" />  </item><item>     <title>ESPN (NEW)</title>    <link>http://link6</link>     <media:stream url="rtmp://176.31.231.57/multicast/ swfUrl=http://www.shadownet.ro/webplayer/player1.swf pageUrl=http://www.shadow-net.info/channels/usa/espn-s2.html playpath=expal " type="video" />     <media:thumbnail url="http://yoursite.com/img.jpg" />  </item><item>     <title>ESPN 2</title>    <link>http://link7</link>     <media:stream url="rtmp://stream.dinozap.tv:1935/vod/_definst_/ swfUrl=http://www.007stream.com/player.swf pageUrl=http://www.007stream.com/ playpath=espn2now_4olemzm " type="video" />     <media:thumbnail url="http://yoursite.com/img.jpg" />  </item><item>     <title>ESPN America</title>    <link>http://link8</link>     <media:stream url="rtmp://173.193.223.184/stream swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf pageUrl=http://www.liveflash.tv/embedplayer/espakk/1/640/490 playpath=espakk?id=15652 -a stream" type="video" />     <media:thumbnail url="http://yoursite.com/img.jpg" />  </item><item>     <title>ESPN America HD</title>    <link>http://link9</link>     <media:stream url="rtmp://s7.webport.tv/live/z050201.stream swfUrl=http://tvsector.com/mediaplayer/player.swf pageUrl=http://tvsector.com/ playpath=z050201.stream live=1" type="video" />     <media:thumbnail url="http://yoursite.com/img.jpg" />  </item>
