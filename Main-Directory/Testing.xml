@@ -8,3 +8,21 @@
   <thumbnail></thumbnail>
   <link>https://r13---sn-5hn7ym76.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=ba0bd5bb046dc67f&itag=18&source=picasa&ip=82.221.111.20&ipbits=0&expire=1420242566&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,ms,mv,nh,requiressl,shardbypass,source&signature=405FA63B5FD0BC6CBC094DCC7177EF87DAA6D2A6.1C0ECE3EDE116929F16F090C272C24E8C3D3E5C3&key=cms1&cms_redirect=yes&mm=30&ms=nxu&mt=1417651355&mv=m&nh=EAI</link>
 </item>
+
+<item>
+<title>NFL Network</title>
+<link>
+ <sublink>rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com</sublink>
+ <sublink>rtmpe://46.246.29.149:1935/live/jan22 pageUrl=http://www.hdcast.tv</sublink>
+</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nfl_network.png</thumbnail>
+</item>
+
+<item>
+<title>NFL Redzone</title>
+<link>
+ <sublink>rtmp://46.246.29.144:1935/stream/ playpath=0XB9uW6aK5.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&st=14t3o4e42695y244x474n294z214z2t21484x2q2p213z2&adx=&stream=f5x28484i5c474x27454q2a4s23413n23485c313l4y323j5x4b4t27433q284x2q2v2u234r274z2u214t3o4e42695y244x4u373v5j4r5d4a225h5c454i4g4p2345634t2y3s2z284337454v2c434a4y2x2j5w2m5d4i594w2u2j574u2a4r2c43384k59413v2w2s2t2343434t2y3s2p2l5u4&sooor=MTU=&str=is&idom=firstrowus1.eu</sublink>
+ <sublink>rtmpe://46.246.29.149:1935/live/streamhdking310 pageUrl=http://www.hdcast.tv</sublink>
+</link>
+<thumbnail>http://www.waitingfornextyear.com/wp-content/uploads/2011/10/Red-Zone-Channel.jpg</thumbnail>
+</item>
