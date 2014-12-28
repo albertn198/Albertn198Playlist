@@ -28,3 +28,9 @@
 </link>
 <thumbnail>http://www.waitingfornextyear.com/wp-content/uploads/2011/10/Red-Zone-Channel.jpg</thumbnail>
 </item>
+
+<item>
+  <title>I don't know what this is</title>
+  <thumbnail></thumbnail>
+  <link>rtmp://tv.futubox.com:1935/live/z050280.stream</link>
+</item>
