@@ -1,6 +1,11 @@
 <poster>live tv</poster>
 <fanart></fanart>
 
+<item>
+ <title>Fox Sports</title>
+ <thumbnail></thumbnail>
+ <link>rtmp://$OPT:rtmp-raw=rtmp://173.193.223.149/live playpath=asdf3dsdfgbnm?id=207743 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/asdf3dsdfgbnm/1/600/400 Conn=S:OK –live</link>
+</item>
 
  <item>
 <title>crime and investigation HD </title>
