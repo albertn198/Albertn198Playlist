@@ -189,8 +189,12 @@ rtmp://80.82.78.38:443/liverepeater playpath=2 swfUrl=http://static.surk.tv/atde
 #EXTINF:-1,[COLOR yellow]Box Nation V2[/COLOR]
 rtmpe://5.153.25.44:1935/redirect playpath=boxnathdfoot swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=boxnathdfoot&vw=640&vh=460&domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch
  
-#EXTINF:-1,[COLOR yellow]ESPN[/COLOR]
-rtmp://80.82.78.38:443/liverepeater playpath=71 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=71&width=640&height=460 token=#atd%#$ZH
+#EXTINF:-1,
+<item>
+<title>[COLOR yellow]ESPN[/COLOR]</title>
+<thumbnail></thumbnail>
+<link>rtmp://80.82.78.38:443/liverepeater playpath=71 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=71&width=640&height=460 token=#atd%#$ZH</link>
+ </item>
  
 #EXTINF:-1,[COLOR yellow]ViaSat Sports (2 audio's)[/COLOR]
 http://213.110.137.87:4022/udp/239.10.0.96:1234
