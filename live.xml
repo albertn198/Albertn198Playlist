@@ -24,9 +24,12 @@ http://149.255.39.122/aasd/8817/index.m3u8
 #EXTINF:-1,[COLOR green]Bein Direct 1HD[/COLOR]
 rtmp://173.192.81.179:443/liverepeater playpath=10 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://renatabenj.in/player2.php?id=10&width=640&height=460 token=#atd%#$ZH
  
-#EXTINF:-1,[COLOR green]Fox Sports 1 [/COLOR]
-rtmp://5.63.151.204:443/liverepeater playpath=11 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://renatabenj.in/player2.php?id=11&width=640&height=460 token=#atd%#$ZH
- 
+#EXTINF:-1,<item>
+<title>[COLOR green]Fox Sports 1 [/COLOR]</title>
+<thumbnail></thumbnail>
+<link>rtmp://5.63.151.204:443/liverepeater playpath=11 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://renatabenj.in/player2.php?id=11&width=640&height=460 token=#atd%#$ZH</link>
+</item>
+
 #EXTINF:-1,[COLOR green]Sky Sports 1 HD[/COLOR]
 rtmp://195.154.220.115:1935/private/skysp1
  
