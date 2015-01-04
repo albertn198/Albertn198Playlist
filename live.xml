@@ -1,21 +1,7 @@
 <poster>live tv</poster>
 <fanart></fanart>
 
-#EXTM3U
-#EXTINF:-1,[COLOR green] Vdubt25[/COLOR]
-http://www.youtube.com/user/vdubt25
-#EXTINF:-1,[COLOR green] -- Updated 05/8/14  @ 20:09 pm-- [/COLOR]
-http://www.youtube.com/user/vdubt25
- 
-#EXTINF:-1,[COLOR red] 2 Audio's have english or russian Audio  [/COLOR]
-http://www.youtube.com/user/vdubt25
- 
-#EXTINF:-1,[COLOR red] Change them as needed [/COLOR]
-http://www.youtube.com/user/vdubt25
- 
- 
-#EXTINF:-1,[COLOR green] -- Random Sports below -- [/COLOR]
-http://www.youtube.com/user/vdubt25
+
  
  
 #EXTINF:-1,[COLOR green]Bein Sport HD[/COLOR]
@@ -30,8 +16,11 @@ rtmp://173.192.81.179:443/liverepeater playpath=10 swfUrl=http://static.surk.tv/
 <link>rtmp://5.63.151.204:443/liverepeater playpath=11 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://renatabenj.in/player2.php?id=11&width=640&height=460 token=#atd%#$ZH</link>
 </item>
 
-#EXTINF:-1,[COLOR green]Sky Sports 1 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/skysp1
+#EXTINF:-1,<item>
+<title>[COLOR cyan]Sky Sports 1 HD[/COLOR]</title>
+<thumbnail></thumbnail>
+<link>rtmp://195.154.220.115:1935/private/skysp1</link>
+</item>
  
 #EXTINF:-1,[COLOR green]Sky Sports 1[/COLOR]
 rtmp://89.248.172.239:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=42&width=640&height=460 token=#atd%#$ZH
