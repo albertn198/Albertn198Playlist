@@ -9,9 +9,9 @@
 </item>
 
 <item>
-  <title>ESPN</title>
+  <title>Fox Crime HD</title>
   <thumbnail></thumbnail>
-  <link>rtmp://$OPT:rtmp-raw=rtmpe://159.253.131.74:1935/redirect playpath=espn swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=espn&vw=640&vh=460&domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+  <link>rtmp://103.7.56.16:1935/live//syfy.stream</link>
 </item>
 
 <item>
