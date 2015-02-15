@@ -2,6 +2,11 @@
 <fanart>http://www.testingspot.net/tst-cloud.png</fanart>
 <thumbnail>http://www.testingspot.net/tst-cloud.png</thumbnail>
 
+<item>
+  <title>Disney Channel</title>
+  <thumbnail></thumbnail>
+  <link>http://akamai231.tibo.tv/m3u8/disneychannel.m3u8</link>
+</item>
 
 <item>
   <title>Espn</title>
