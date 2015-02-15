@@ -11,7 +11,7 @@
 <item>
   <title>ESPN</title>
   <thumbnail></thumbnail>
-  <link>rtmp://89.248.172.145:1935/edge/_definst_/dp2g1w4ip6v0zoc</link>
+  <link>rtmp://$OPT:rtmp-raw=rtmpe://159.253.131.74:1935/redirect playpath=espn swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=espn&vw=640&vh=460&domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</link>
 </item>
 
 <item>
