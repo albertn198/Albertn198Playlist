@@ -21,3 +21,9 @@
    <link>rtmp://198.255.0.18:443/live?cLBMPT560QWkYk1hpfJyZs8HsSP0Uuxc playpath=live_highspothorror102 swfUrl=http://vaughnlive.tv/4259041179/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv timeout=20</link>
  </item>
  
+ 
+ <item>
+  <title>Full House</title>
+  <thumbnail></thumbnail>
+  <link>rtmp://198.27.75.99/ch02 playpath=fullhouse swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?fullhouse timeout=20</link>
+ </item>
