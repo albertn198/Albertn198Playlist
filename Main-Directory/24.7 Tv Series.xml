@@ -1,2 +1,23 @@
 <poster>24/7 tv shows</poster>
 <fanart></fanart>
+
+
+
+<item>
+ <title>American Pickers</title>
+ <link>
+ <sublink>rtmp://198.255.0.18:443/live?cLBMPT560QWkYk1hpfJyZs8HsSP0Uuxc playpath=live_111aaacharkpickers swfUrl=http://vaughnlive.tv/4259041179/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv timeout=20</sublink>
+ <sublink></sublink>
+ <sublink></sublink>
+ <sublink></sublink>
+ </link>
+ <thumbnail>http://www.sfscootergirls.com/wp-content/uploads/2013/02/american-pickers-22.jpg</thumbnail>
+ </item>
+ 
+ 
+ <item>
+   <title>Friends</title>
+   <thumbnail></thumbnail>
+   <link>rtmp://198.255.0.18:443/live?cLBMPT560QWkYk1hpfJyZs8HsSP0Uuxc playpath=live_highspothorror102 swfUrl=http://vaughnlive.tv/4259041179/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv timeout=20</link>
+ </item>
+ 
