@@ -23,7 +23,7 @@
  
  
  <item>
-  <title>Full House</title>
+  <title>Nickelodeon</title>
   <thumbnail></thumbnail>
-  <link>rtmp://198.27.75.99/ch02 playpath=fullhouse swfUrl=http://www.tgun.tv/lock/player.swf live=1 pageUrl=http://www.tgun.tv/menus/players/playerindex5.php?fullhouse timeout=20</link>
+  <link>http://202.75.23.36:8800/live/ch43/01.m3u8 timeout=20</link>
  </item>
