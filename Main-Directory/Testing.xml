@@ -4,6 +4,17 @@
 
 
 <item>
+ <title>[COLOR ff6aa84f]test[/COLOR]</title>
+ <link>
+ <sublink>rtmp://198.255.0.18:443/live?cLBMPT560QWkYk1hpfJyZs8HsSP0Uuxc playpath=live_111aaacharkpickers swfUrl=http://vaughnlive.tv/4259041179/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv timeout=20</sublink>
+ <sublink></sublink>
+ <sublink></sublink>
+ <sublink></sublink>
+ </link>
+ <thumbnail></thumbnail>
+ </item>
+
+<item>
   <title>American Pickers 24/7</title>
   <thumbnail></thumbnail>
   <link>rtmp://$OPT:rtmp-raw=rtmp://198.255.0.18:443/live?cLBMPT560QWkYk1hpfJyZs8HsSP0Uuxc playpath=live_111aaacharkpickers swfUrl=http://vaughnlive.tv/4259041179/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv</link>
