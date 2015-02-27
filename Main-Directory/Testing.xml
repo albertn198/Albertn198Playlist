@@ -4,6 +4,12 @@
 
 
 <item>
+ <title>Melissa Testing</title>
+ <thumbnail></thumbnail>
+ <link>http://4.31.30.145:9141</link>
+</item>
+
+<item>
  <title>[COLOR ff6aa84f]test[/COLOR]</title>
  <link>
  <sublink>rtmp://198.255.0.18:443/live?cLBMPT560QWkYk1hpfJyZs8HsSP0Uuxc playpath=live_111aaacharkpickers swfUrl=http://vaughnlive.tv/4259041179/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv timeout=20</sublink>
