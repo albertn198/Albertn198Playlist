@@ -2,12 +2,9 @@
 <fanart>http://www.testingspot.net/tst-cloud.png</fanart>
 <thumbnail>http://www.testingspot.net/tst-cloud.png</thumbnail>
 
-
-<item>
- <title>Melissa Testing</title>
- <thumbnail></thumbnail>
- <link>http://4.31.30.145:9141</link>
-</item>
+<name>Random</name>
+<thumbnail></thumbnail>
+<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/live.xml</link>
 
 <item>
  <title>[COLOR ff6aa84f]test[/COLOR]</title>
