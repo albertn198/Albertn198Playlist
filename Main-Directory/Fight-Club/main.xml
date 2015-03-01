@@ -1,6 +1,12 @@
 <poster>Fight Club</poster>
 <fanart></fanart>
 
+<item>
+ <title>UFC 184 PPV</title>
+ <thumbnail>http://www.sportchaser.com/blog/wp-content/uploads/2015/02/UFC_184_Weidman_vs._Belfort_Poster.jpg</thumbnail>
+ <link>http://198.27.94.105/hls/fox1_1.m3u8</link>
+</item>
+
 <name>UFC</name>
 <thumbnail>http://www.ufc-world.ru/images/2011/09/ufc-300x300.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/Main-Directory/Fight-Club/UFC.xml</link>
