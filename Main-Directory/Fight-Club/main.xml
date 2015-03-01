@@ -4,7 +4,7 @@
 <item>
  <title>UFC 184 PPV</title>
  <thumbnail>http://www.sportchaser.com/blog/wp-content/uploads/2015/02/UFC_184_Weidman_vs._Belfort_Poster.jpg</thumbnail>
- <link>http://198.27.94.105/hls/fox1_1.m3u8</link>
+ <link>http://78.129.179.33:1935/edge/350/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3</link>
 </item>
 
 <name>UFC</name>
