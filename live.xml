@@ -27,96 +27,96 @@
 </item>
 
 
-<message>[COLOR green]*************************************************************************</message>
+<message>[COLOR green]*************************************************************************[/COLOR]</message>
 
 
 <item>
- <title>Beig Sports 1 HD</title>
+ <title>[COLOR green]Bein Sports 1 HD[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc1.m3u8</link>
 </item>
 
 <item>
- <title>Bein Sports 2 HD</title>
+ <title>[COLOR green]Bein Sports 2 HD[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc2.m3u8</link>
 </item>
 
 <item>
- <title>Bein Sports 3 HD</title>
+ <title>[COLOR green]Bein Sports 3 HD[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc3.m3u8</link>
 </item>
 
 <item>
- <title>Bein Sports 4 HD</title>
+ <title>[COLOR green]Bein Sports 4 HD[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc4.m3u8</link>
 </item>
 
 <item>
- <title>Bein Sports 5 HD</title>
+ <title>[COLOR green]Bein Sports 5 HD[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc5.m3u8</link>
 </item>
 
 <item>
- <title>Bein Sports 6 HD</title>
+ <title>[COLOR green]Bein Sports 6 HD[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc6.m3u8</link>
 </item>
 
 <item>
- <title>Bein Sports 7 HD</title>
+ <title>[COLOR green]Bein Sports 7 HD[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc7.m3u8</link>
 </item>
 
 <item>
- <title>Bein Sports 8 HD</title>
+ <title>[COLOR green]Bein Sports 8 HD[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc8.m3u8</link>
 </item>
 [/COLOR]
-<message>[COLOR cyan]*******************************************************************************</message>
+<message>[COLOR cyan]*******************************************************************************[/COLOR]</message>
 
 <item>
- <title>Sky Sports 1</title>
+ <title>[COLOR cyan]Sky Sports 1[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://198.27.94.105/hls/skysports1_1.m3u8</link>
 </item>
 
 <item>
- <title>Sky Sports 2</title>
+ <title>[COLOR cyan]Sky Sports 2[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://198.27.94.105/hls/skysports2_1.m3u8</link>
 </item>
 
 <item>
- <title>Sky Sports 3</title>
+ <title>[COLOR cyan]Sky Sports 3[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://198.27.94.105/hls/skysports3_1.m3u8</link>
 </item>
 
 <item>
- <title>Sky Sports 4</title>
+ <title>[COLOR cyan]Sky Sports 4[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://198.27.94.105/hls/skysports4_1.m3u8</link>
 </item>
 
 <item>
- <title>Sky Sports 5</title>
+ <title>[COLOR cyan]Sky Sports 5[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://198.27.94.105/hls/skysports5_1.m3u8</link>
 </item>
 
 <item>
- <title>Sky Sports</title>
+ <title>[COLOR cyan]Sky Sports[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://93.186.200.180:8000/live/sky/sky/9.ts</link>
 </item>
 [/COLOR]
-<message>***************************************************************</message>
+<message>[COLOR yellow]***************************************************************[/COLOR]</message>
 
 <item>
  <title></title>
@@ -131,7 +131,7 @@
 </item>
 
 <item>
- <title>Fox Sports HD</title>
+ <title>[COLOR yellow]Fox Sports HD[/COLOR]</title>
  <thumbnail></thumbnail>
  <link>http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8</link>
 </item>
