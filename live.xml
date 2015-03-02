@@ -77,15 +77,79 @@
  <link>rtmpe://l.xuscacamusca.se/r/ playpath=bn1950 swfUrl=http://mybeststream.xyz/YjM4M2Y5ZDQ4ZDYwYjNkZmJiMjVmOTZm/jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/?id=28287&width=100%&height=100%</link>
 </item>
 
+
+
+
+
 <item>
- <title>Tru TV</title>
+ <title>Beig Sports 1 HD</title>
  <thumbnail></thumbnail>
- <link>rtmp://89.248.172.145:1935/edge/_definst_/oeiigxxv1gbeqq</link>
+ <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc1.m3u8</link>
 </item>
 
 <item>
- <title>HD</title>
+ <title>Bein Sports 2 HD</title>
  <thumbnail></thumbnail>
- <link>rtmpe://46.246.124.22:1935/l playpath=sskys1 token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/</link>
+ <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc2.m3u8</link>
+</item>
+
+<item>
+ <title>Bein Sports 3 HD</title>
+ <thumbnail></thumbnail>
+ <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc3.m3u8</link>
+</item>
+
+<item>
+ <title>Bein Sports 4 HD</title>
+ <thumbnail></thumbnail>
+ <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc4.m3u8</link>
+</item>
+
+<item>
+ <title>Bein Sports 5 HD</title>
+ <thumbnail></thumbnail>
+ <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc5.m3u8</link>
+</item>
+
+<item>
+ <title>Bein Sports 6 HD</title>
+ <thumbnail></thumbnail>
+ <link>http://wpc.E915.edgecastcdn.net/80E915/003/hls/m3u8/mc6.m3u8</link>
+</item>
+
+<item>
+ <title>Fox Sports HD</title>
+ <thumbnail></thumbnail>
+ <link>http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8</link>
+</item>
+
+<item>
+ <title></title>
+ <thumbnail></thumbnail>
+ <link></link>
+</item>
+
+<item>
+ <title></title>
+ <thumbnail></thumbnail>
+ <link></link>
+</item>
+
+<item>
+ <title></title>
+ <thumbnail></thumbnail>
+ <link></link>
+</item>
+
+<item>
+ <title></title>
+ <thumbnail></thumbnail>
+ <link></link>
+</item>
+
+<item>
+ <title></title>
+ <thumbnail></thumbnail>
+ <link></link>
 </item>
 
