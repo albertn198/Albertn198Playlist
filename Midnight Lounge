@@ -23,9 +23,9 @@
 </item>
 
 <item>
-<title>Hustler</title>
+<title>Red Light HD</title>
 <thumbnail></thumbnail>
-<link>http://cdn-07.sdn.si/hustler/hustler.m3u8</link>
+<link>rtmp://195.154.176.66:8082/private/private/ playpath=private swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://ero-tv.org/redlight_online</link>
 </item>
 
 <item>
