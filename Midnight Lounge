@@ -5,9 +5,21 @@
 
 
 <item>
+<title>Babe Station Unleashed 2</title>
+<thumbnail></thumbnail>
+<link>http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8</link>
+</item>
+
+<item>
 <title>Playboy</title>
 <thumbnail></thumbnail>
 <link>http://iptv.sat-elit.net/iptv/5f1fa2c2ed33d74c89460dfc39eb1dd7/527/index.m3u8</link>
+</item>
+
+<item>
+<title>Russian Night</title>
+<thumbnail></thumbnail>
+<link>http://iptv.sat-elit.net/iptv/5f1fa2c2ed33d74c89460dfc39eb1dd7/147/index.m3u8 </link>
 </item>
 
 <item>
