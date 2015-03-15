@@ -4,7 +4,12 @@
 <item>
  <title>UFC 185</title>
  <thumbnail></thumbnail>
- <link>rtmp://167.114.117.208/live/bt1v</link>
+ <link>
+ <sublink>http://115.146.126.226/chn/bin01/v.m3u8</sublink>
+ <sublink>rtmp://167.114.117.208/live/bt1v</sublink>
+ <sublink>http://115.146.126.226/chn/bin02/v.m3u8</sublink>
+ <sublink></sublink>
+ </link>
 </item>
 
 <item>
