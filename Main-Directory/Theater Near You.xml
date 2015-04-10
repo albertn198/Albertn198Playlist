@@ -36,9 +36,11 @@
 <thumbnail>http://3.bp.blogspot.com/-lHv9pV_pSbo/VAFm9TkkncI/AAAAAAAAADE/92_XrkOt0F4/s1600/paddington_bear.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/links/Paddington.xml</link>
 
-<name>The Wedding Ringer</name>
-<thumbnail>http://dimovie.vn/sites/default/files/styles/poster/public/the-wedding-ringer-phim-2015_0.jpg?itok=Uha-rLdS</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/links/The%20Wedding%20Ringer.xml</link>
+<item>
+  <title>The Wedding Ringer</title>
+  <thumbnail>http://dimovie.vn/sites/default/files/styles/poster/public/the-wedding-ringer-phim-2015_0.jpg?itok=Uha-rLdS</thumbnail>
+  <link>http://vidzi.tv/ol33pavno4vt</link>
+</item>
 
 <name>Interstellar</name>
 <thumbnail>http://www.hollywoodreporter.com/sites/default/files/custom/Blog_Images/interstellar3.jpg</thumbnail>
