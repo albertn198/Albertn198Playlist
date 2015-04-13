@@ -1,7 +1,12 @@
 <poster>HD Movies</poster>
 <fanart>http://www.nottingham.ac.uk/news/pressreleases/2011/october/filmreel.jpg</fanart>
 
-
+<item>
+  <title>The Forger</title>
+  <type>movie</type>
+  <thumbnail>http://upload.wikimedia.org/wikipedia/en/c/cc/The_Forger_poster.jpg</thumbnail>
+  <link>https://lh3.googleusercontent.com/Ca8JO88Kw1Zb947j5tUBC2owzL20Ar4j5SQOwvVA3A=m22</link>
+</item>
 
 <item>
   <title>Good Kill</title>
