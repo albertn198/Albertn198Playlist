@@ -1,7 +1,12 @@
 <poster>HD Movies</poster>
 <fanart>http://www.nottingham.ac.uk/news/pressreleases/2011/october/filmreel.jpg</fanart>
 
-
+<item>
+  <title>The Duff</title>
+  <type>movie</type>
+  <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc3OTg3MDUwN15BMl5BanBnXkFtZTgwMTAwMTkxNDE@._V1_SX640_SY720_.jpg</thumbnail>
+  <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=4dc3311aa201ba3f&itag=22&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1432189287&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=8092A84E8C29D95890DB16320FDC526155D21099.BE94E4A3B6657BBF2C3CCF77BC7607C638813CA1&key=lh1</link>
+</item>
 
 <item>
   <title>The Forger</title>
