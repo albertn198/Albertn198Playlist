@@ -3,7 +3,6 @@
 
 <item>
   <title>UFC Fight Night 65 Miocic vs. Hunt </title>
-  <type>movie</type>
   <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8e/Miocic_Hunt_pre_sale.jpg</thumbnail>
   <link>http://vidzi.tv/rqrngoki7aw5</link>
 </item>
@@ -12,31 +11,26 @@
 <item>
   <title>UFC Fight Night 62 Maia vs. LaFlare</title>
   <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/13/UFN_62_pre_sale.jpg/200px-UFN_62_pre_sale.jpg</thumbnail>
-  <link>
-    <sublink>http://vidzi.tv/j0lifocld04l</sublink>
-    <sublink>http://nosvideo.com/?v=1o7byak94z0v</sublink>
-  </link>
+  <link>http://vidzi.tv/j0lifocld04l</link>
 </item>
 
-<name>UFC Fight Night 61 Bigfoot vs Mir</name>
-<thumbnail>http://assets.iwannawatch.to/wp-content/uploads/2015/02/UFC-Fight-Night-61-Bigfoot-vs-Mir-2015.jpeg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/links/UFC%20Fight%20Night%2061%20Bigfoot%20vs%20Mir.xml</link>
+<item>
+  <title>UFC Fight Night 61 Bigfoot vs Mir</title>
+  <thumbnail>http://assets.iwannawatch.to/wp-content/uploads/2015/02/UFC-Fight-Night-61-Bigfoot-vs-Mir-2015.jpeg</thumbnail>
+  <link>http://vidzi.tv/2vaciak3cec2</link>
+</item>
 
-<name>UFC Fight Night 60 Henderson vs Thatch</name>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/0/0b/UFN_60_pre_sale.jpg/200px-UFN_60_pre_sale.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/links/UFC%20Fight%20Night60.xml</link>
+<item>
+  <title>UFC Fight Night 60 Henderson vs Thatch</title>
+  <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/0/0b/UFN_60_pre_sale.jpg/200px-UFN_60_pre_sale.jpg</thumbnail>
+  <link>http://vidzi.tv/i97t43atm5s6</link>
+</item>
 
-<name>UFC Fight Night 59[COLOR red]MAIN CARD[/COLOR]  Mcgregor vs Siver</name>
-<thumbnail>http://www.mma-core.com/img/e/o/UFC_Fight_Night_McGregor_vs_Siver-77156.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/links/UFC%20Fight%20Night%2059.xml</link>
-
-<name>UFC Fight Night 59[COLOR yellow]Prelims[/COLOR]</name>
-<thumbnail>http://www.mma-core.com/img/e/o/UFC_Fight_Night_McGregor_vs_Siver-77156.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/links/UFC%20Fight%20Night%2059%20Prelims.xml</link>
-
-<name>UFC Fight Night Dos Santos vs Miocic</name>
-  <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/23/UFC_on_FOX_13.jpg</thumbnail>
-  <link>https://raw.githubusercontent.com/albertn198/Albertn198Playlist/master/links/ufcfightnight.xml</link>
+<item>
+  <title>UFC Fight Night 59 McGregor vs Siver</title>
+  <thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/9/9e/20141219040430!UFN_59_pre_sale.jpg</thumbnail>
+  <link>http://vidzi.tv/alrns0x9wlou</link>
+</item>
 
 <item>
   <title>UFC Fight Night 58 [COLOR red]MAIN CARD  Machida vs. Dollaway</title>
