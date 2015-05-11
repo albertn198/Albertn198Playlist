@@ -10,18 +10,21 @@
 
 <item>
   <title>The Adjuster</title>
+  <type>movie</type>
   <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/82/TheAdjuster.jpg</thumbnail>
   <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=4b10bfba79eb17a5&itag=22&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433492766&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=2CEA2C2829F687AC673238D9352A5EBC62DD9685.776861BD33E1DB0F3E297D92B17D60D0AEA9A5D2&key=lh1</link>
 </item>
 
 <item>
   <title>Private Number</title>
+  <type>movie</type>
   <thumbnail></thumbnail>
   <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=ffe19680b676c0df&itag=37&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433584379&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=165E2D3C55FBF6D9D23B0E50EA7B009CD40BB3F5.D616243CCAE85DB3FC18124EEF64CAB3437B8B5B&key=lh1&begin=12700&cm2=0</link>
 </item>
 
 <item>
   <title>Strange Magic</title>
+  <type>movie</type>
   <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA0NjU3MTU5OF5BMl5BanBnXkFtZTgwMTYyMDQ3MzE@._V1_SX640_SY720_.jpg</thumbnail>
   <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=08047cdfebe9cf75&itag=22&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1433675442&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=96108DEF5BBE2CE1B8099B991508AF00A101699C.61FF96BDB543A05AC502E1F9DC47039AD457D16C&key=lh1</link>
 </item>
@@ -129,6 +132,7 @@
 
 <item>
   <title>Into The Woods</title>
+  <type>movie</type>
   <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTY4MzQ4OTY3NF5BMl5BanBnXkFtZTgwNjM5MDI3MjE@._V1_SX640_SY720_.jpg</thumbnail>
   <link>https://r19---sn-oguesne7.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=dd53ba7ce96bd460&itag=37&source=webdrive&ip=106.185.53.193&ipbits=0&expire=1428979545&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,ms,mv,nh,pl,requiressl,shardbypass,source&signature=783667C6ADBB5927508F1D6699E9128B22993CA6.35391C9131F84203C243CAB9C2C58CB5A570997C&key=cms1&cms_redirect=yes&mm=30&ms=nxu&mt=1426412942&mv=m&nh=IgpwcjAzLm5ydDEwKgkxMjcuMC4wLjE&pl=27</link>
 </item>
@@ -136,6 +140,7 @@
 
 <item>
   <title>Seventh Son</title>
+  <type>movie</type>
   <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/14/Seventh_Son_Poster.jpg</thumbnail>
   <link>https://r9---sn-oguesn7k.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=c80056b1ebcc114a&itag=37&source=webdrive&ip=183.86.209.75&ipbits=0&expire=1430128653&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,ms,mv,nh,pl,requiressl,shardbypass,source&signature=0981EF1EDABF6309EA4A361618B95166A33E4774.780D5C275DB4495B7112E7264B3337AA140B019A&key=cms1&cms_redirect=yes&mm=30&ms=nxu&mt=1427566179&mv=m&nh=IgpwcjAyLm5ydDE5KgkxMjcuMC4wLjE&pl=25</link>
 </item>
@@ -143,35 +148,16 @@
 
 <item>
   <title>Dumb and Dumber To</title>
+  <type>movie</type>
   <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/83/Dumb_and_Dumber_To_Poster.jpg</thumbnail>
   <link>https://r16---sn-oguesnls.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=a7982de27c997750&itag=22&source=picasa&ip=106.185.54.180&ipbits=0&expire=1430362509&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,ms,mv,nh,pl,requiressl,shardbypass,source&signature=488F974FA89D3D9E7A1F0E3C49BCE5B458B3F87B.0FF1AEA30E4D12D3A6247987E5C8465545B33913&key=cms1&cms_redirect=yes&mm=30&ms=nxu&mt=1427770466&mv=m&nh=IgpwcjAxLm5ydDE5KgkxMjcuMC4wLjE&pl=27</link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
 </item>
 
 
 
 <item>
   <title>Focus</title>
+  <type>movie</type>
   <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTUwODg2OTA4OF5BMl5BanBnXkFtZTgwOTE5MTE4MzE@._V1_SX640_SY720_.jpg</thumbnail>
   <link>https://r1---sn-nx57ynez.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=09a96db39f1f5fcf&itag=22&source=picasa&ip=183.86.209.75&ipbits=0&expire=1429021106&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,ms,mv,pl,requiressl,shardbypass,source&signature=66796C43A3EEB72AEDB8D2DD50148F5F94471FE4.313FF5DCE622B4C5600B6FB75004EC48AA58EC7A&key=cms1&cms_redirect=yes&mm=30&ms=nxu&mt=1426429283&mv=m&pl=25</link>
 </item>
@@ -256,6 +242,7 @@
 
 <item>
   <title>The Hunger Games Mockingjay Part 1</title>
+  <type>movie</type>
   <thumbnail>http://0707c778e0f1481535fe-36b693bb9065cd15445b260c56542cbf.r55.cf2.rackcdn.com//assets/7a61623a-db94-11e3-8b66-bc764e1143c2.jpg</thumbnail>
   <link>https://r6---sn-a5m7ln7k.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=7ce7dd1030a397bc&itag=22&source=webdrive&ip=107.167.22.250&ipbits=0&expire=1426865890&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,ms,mv,pl,requiressl,shardbypass,source&signature=413ACDA1ACE380B8C4FF78BA1BA8349A35131C5B.5170A5FA14C0547AF0E9532E70A903B54E206E66&key=cms1&cms_redirect=yes&mm=30&ms=nxu&mt=1424273900&mv=m&pl=24
   </link>
@@ -406,224 +393,6 @@
   <link>https://r16---sn-a5m7ln7d.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=5e32f3d2f1d08199&itag=37&source=webdrive&ip=155.94.207.116&ipbits=0&expire=1427742145&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,ms,mv,pl,requiressl,shardbypass,source&signature=46F1A1438798C54BE578303EFBB38732B50B136A.0B4438A13AC4E00ACD6414A27D24065C0B5E7932&key=cms1&cms_redirect=yes&mm=30&ms=nxu&mt=1425711095&mv=m&pl=21</link>
 </item>
 
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
-
-<item>
-  <title></title>
-  <thumbnail></thumbnail>
-  <link></link>
-</item>
-
 <item>
   <title>The Art of Steal</title>
   <type>movie</type>
@@ -734,12 +503,6 @@
 <type>movie</type>
 <thumbnail>http://content9.flixster.com/movie/11/18/16/11181651_800.jpg</thumbnail>
 <link>https://r19---sn-nwj7knek.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=371b1162074a3bd5&itag=22&source=webdrive&ip=23.27.206.118&ipbits=0&expire=1425179766&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,ms,mv,pl,requiressl,shardbypass,source&signature=831C7E05C7C28658BA206EE9531D110CDB3DEBC6.34D98AD93E84640A60076B6C3260B9163CC40EB9&key=cms1&cms_redirect=yes&mm=30&ms=nxu&mt=1422656993&mv=m&pl=21</link>
-</item>
-
-<item>
-<title></title>
-<thumbnail></thumbnail>
-<link></link>
 </item>
 
 <item>
