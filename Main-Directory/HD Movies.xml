@@ -1,6 +1,22 @@
 <poster>HD Movies</poster>
 <fanart>http://www.nottingham.ac.uk/news/pressreleases/2011/october/filmreel.jpg</fanart>
 
+
+
+<item>
+  <title>McFarland, USA</title>
+  <type>movie</type>
+  <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/12/McFarland,_USA_poster.jpg</thumbnail>
+  <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=edcb5689bb2e7e10&itag=22&source=picasa&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434532345&sparams=requiressl,shardbypass,cmbypass,id,itag,source,ip,ipbits,expire&signature=D852B197CD07763E53B0EA8FB47AD78B6B6CDF88.B27656C54B0E6745431AE20FC615334EDAF4E699&key=lh1</link>
+</item>
+
+<item>
+  <title>Ex Machina</title>
+  <type>movie</type>
+  <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SX214_AL_.jpg</thumbnail>
+  <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=523e32d0acf7d721&itag=37&source=webdrive&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1434432383&sparams=requiressl%2Cshardbypass%2Ccmbypass%2Cid%2Citag%2Csource%2Cip%2Cipbits%2Cexpire&signature=E6748532C1F6D89E382B0A303A5E50336843F6D.78D01DC5DACAA5BAB6A27C19C95D0B576D3C0FD2&key=ck2</link>
+</item>
+
 <item>
   <title>Chappie</title>
   <type>movie</type>
