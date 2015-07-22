@@ -1,6 +1,13 @@
 <poster>HD Movies</poster>
 <fanart>http://www.nottingham.ac.uk/news/pressreleases/2011/october/filmreel.jpg</fanart>
-
+ 
+ <item>
+   <title></title>
+   <type>movie</type>
+   <thumbnail></thumbnail>
+   <link></link>
+ </item>
+ 
 <item>
   <title>Far from the Madding Crowd</title>
   <type>movie</type>
