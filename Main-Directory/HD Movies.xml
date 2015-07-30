@@ -1,6 +1,14 @@
 <poster>HD Movies</poster>
 <fanart>http://www.nottingham.ac.uk/news/pressreleases/2011/october/filmreel.jpg</fanart>
  
+ 
+ <item>
+  <title>Max</title>
+  <type>movie</type>
+  <thumbnail>http://www.tribute.ca/news/wp-content/uploads/2015/06/Max.jpg</thumbnail>
+  <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=9903885f6e3d150c&itag=22&source=picasa&cmo=secure_transport=yes&ip=0.0.0.0&ipbits=0&expire=1438298475&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=C2B074A9D45AC6487A70C9A875D0A46787FACBC6.AEC85E4C249939307970F7111BBCFA2EEAD3EA99&key=lh1</link>
+ </item>
+ 
  <item>
    <title>Hot Pursuit</title>
    <type>movie</type>
@@ -11,7 +19,7 @@
 <item>
  <title>Ted 2</title>
  <type>movie</type>
- <thumbnail></thumbnail>
+ <thumbnail>http://movies.inquirer.net/files/2015/06/Ted2-Poster2.jpg</thumbnail>
  <link>http://play-cache.filepup.net:8080/play_e1f957124c2991c180515b838b37bada.mp4</link>
 </item>
 
@@ -36,12 +44,6 @@
   <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=2c48cb7a7bc1f784&itag=22&source=webdrive&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1439431673&sparams=requiressl%2Cid%2Citag%2Csource%2Cip%2Cipbits%2Cexpire&signature=9FA4CE6460635D40EA1B4E9F1CFC813FEF56CA6E.2A0DFDD6317A71159EE21FB4FCE1B45682DA013&key=ck2</link>
 </item>
 
-<item>
-  <title>Ted 2</title>
-  <type>movie</type>
-  <thumbnail>https://upload.wikimedia.org/wikipedia/en/2/24/Ted_2_poster.jpg</thumbnail>
-  <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=2fcd254126d38ae6&itag=37&source=webdrive&cmo=secure_transport%3Dyes&ip=0.0.0.0&ipbits=0&expire=1439350426&sparams=requiressl%2Cid%2Citag%2Csource%2Cip%2Cipbits%2Cexpire&signature=789DC753454DF81EA64578CF6B660B3297B2DC39.531174A40119AC3A74EADEBF38D64EC059E51394&key=ck2</link>
-</item>
 
 <item>
   <title>Jurassic World</title>
