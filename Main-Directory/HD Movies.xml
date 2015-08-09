@@ -1,7 +1,12 @@
 <poster>HD Movies</poster>
 <fanart>http://www.nottingham.ac.uk/news/pressreleases/2011/october/filmreel.jpg</fanart>
  
-
+<item>
+  <title>Terminator Genisys</title>
+  <type>movie</type>
+  <thumbnail>http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/Terminator-Genisys-poster-final.jpg</thumbnail>
+  <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=34edb50e5ca3f653&itag=22&source=picasa&cmo=secure_transport=yes&ip=0.0.0.0&ipbits=0&expire=1439163005&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=858D9B6F5FF4DB9C07290C8C1438A90D7A5F9EDA.C26D2EE31720C19389F977D5E4DBAC4CB63007D1&key=lh1</link>
+</item>
  
  <item>
   <title>Entourage</title>
