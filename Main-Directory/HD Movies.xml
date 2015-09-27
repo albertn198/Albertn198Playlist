@@ -1,18 +1,17 @@
 <poster>HD Movies</poster>
 <fanart>http://www.nottingham.ac.uk/news/pressreleases/2011/october/filmreel.jpg</fanart>
  
+ <item>
+  <title>Fantastic 4</title>
+  <type>movie</type>
+  <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk0OTMyMDA0OF5BMl5BanBnXkFtZTgwMzY5NTkzNTE@._V1_SX640_SY720_.jpg</thumbnail>
+  <link>https://r20---sn-o097znez.googlevideo.com/videoplayback?requiressl=yes&id=db1467c7cc98306b&itag=18&source=webdrive&ip=12.185.22.184&ipbits=0&expire=1443353261&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,source&signature=276B544C8BCDB4CDE8BA01CFA6254043BC25E69F.4F9BE20FCCB3FEAFFCE4B9EA74EAD9577FC28F36&key=cms1&cms_redirect=yes&mm=31&mn=sn-o097znez&ms=au&mt=1443341366&mv=m&nh=IgpwcjAyLnNqYzA3KgkxMjcuMC4wLjE&pl=20</link>
+ </item>
  
 <item>
   <title>The Deep Full</title>
   <thumbnail>http://i.imgur.com/ZDaUzhL.png</thumbnail>
   <link>https://r11---sn-nwj7knls.googlevideo.com/videoplayback?requiressl=yes&id=e228602753e8b499&itag=18&source=webdrive&ip=12.185.22.184&ipbits=0&expire=1443360452&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=7E960910D8FB96DE91F3FAB5E65D498B67DB76EA.7C16B58C7FFCFD90259994E26B7655782F0F6CA0&key=cms1&cms_redirect=yes&mm=31&mn=sn-nwj7knls&ms=au&mt=1443340544&mv=m&pl=20</link>
-</item>
- 
- <item>
-  <title>Mission Impossible 5: Rogue Nation</title>
-  <type>movie</type>
-  <thumbnail>http://static2.hypable.com/wp-content/uploads/2015/06/mission-impossible-rogue-nation-new-poster-1.jpg</thumbnail>
-  <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=90c78df69a16a373&itag=22&source=picasa&cmo=secure_transport=yes&ip=0.0.0.0&ipbits=0&expire=1441296814&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=7704BD3A372FB616528E145C6B101F9F28515073.1888CE744CA135F83CA11C6DD7C5DC36098017DC&key=lh1</link>
 </item>
  
  <item>
@@ -25,7 +24,7 @@
   <title>Southpaw</title>
   <type>movie</type>
   <thumbnail>http://resizing.flixster.com/vEmFJrlx2IUGNkzRh43YVCT7qko=/800x1187/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/15/11191554_ori.jpg</thumbnail>
-  <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=2a9772a276c812ab&itag=22&source=picasa&cmo=secure_transport=yes&ip=0.0.0.0&ipbits=0&expire=1441210978&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=2F4F50DE929EE05E98D9BB6ED4B4866F2AC12C0B.BC9830FF6A4135C927AA2D1B81E64ED5A9359AEF&key=lh1</link>
+  <link>https://r12---sn-o097znle.googlevideo.com/videoplayback?requiressl=yes&id=d5cffb1ac6a1bee8&itag=18&source=webdrive&ip=12.185.22.184&ipbits=0&expire=1443367655&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=26C53307FA6114C3ECD29C7F486C1472890D8856.41E04F4E42FE6F5FED8D6CEA1292718E92D0BD0F&key=cms1&cms_redirect=yes&mm=31&mn=sn-o097znle&ms=au&mt=1443341563&mv=m&pl=20</link>
  </item>
  
  <item>
@@ -47,20 +46,20 @@
   <title>San Andreas</title>
   <type>movie</type>
   <thumbnail>http://i.imgur.com/IfpyAf8.jpg</thumbnail>
-  <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=c963e18b85269027&itag=22&source=picasa&cmo=secure_transport=yes&ip=0.0.0.0&ipbits=0&expire=1441297056&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=6DC3C8CE258C3CE30908C9B6A9A87CC95DF17DEE.B844611A674E1CD85DB47AAE68C86AA895E3A22E&key=lh1</link>
+  <link>https://r18---sn-nwj7kney.googlevideo.com/videoplayback?requiressl=yes&id=9243a59cda2a9f03&itag=18&source=webdrive&ip=12.185.22.184&ipbits=0&expire=1443356852&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,source&signature=5C39F6E4860ADA907A773F3369C4C8ECEEB60923.12BBE21CEECEB6895A64D38457EC978C64CB6CF6&key=cms1&cms_redirect=yes&mm=31&mn=sn-nwj7kney&ms=au&mt=1443341563&mv=m&nh=IgpwcjAyLnNqYzA3KgkxMjcuMC4wLjE&pl=20</link>
 </item>
 
 <item>
  <title>Minions</title>
  <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Minions_poster.jpg/220px-Minions_poster.jpg</thumbnail>
- <link>https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=ee7b9422ec288540&itag=22&source=picasa&cmo=secure_transport=yes&ip=0.0.0.0&ipbits=0&expire=1441132359&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=B6B74496BA4CFD38C395020598C8339F08C11F68.5394C79B7A2E4EB2B805939933AA95851AD11B7A&key=lh1</link>
+ <link>https://r8---sn-nwj7kner.googlevideo.com/videoplayback?requiressl=yes&id=4f24ac0a9bc97c6a&itag=18&source=webdrive&ip=12.185.22.184&ipbits=0&expire=1443356874&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=18A26D1C958F99EEE7922DE8DA4B75E98442B7AF.3DED541FE1AB03E7B62FE4EDA5EAD8D895B386DA&key=cms1&cms_redirect=yes&mm=31&mn=sn-nwj7kner&ms=au&mt=1443341463&mv=m&pl=20</link>
 </item>
  
 <item>
   <title>Terminator Genisys</title>
   <type>movie</type>
   <thumbnail>http://i2.wp.com/bitcast-a-sm.bitgravity.com/slashfilm/wp/wp-content/images/Terminator-Genisys-poster-final.jpg</thumbnail>
-  <link>http://afdah.tv/embed/1340138</link>
+  <link>https://r13---sn-nwj7kner.googlevideo.com/videoplayback?requiressl=yes&id=d9939db8e1619d11&itag=18&source=webdrive&ip=12.185.22.184&ipbits=0&expire=1443364056&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,requiressl,source&signature=2964DDB73AE566F284B92F0C1B787722E2F07AF7.0C80D8CE41AEF785173B24D1BAD4134AFFCE5814&key=cms1&cms_redirect=yes&mm=31&mn=sn-nwj7kner&ms=au&mt=1443341463&mv=m&pl=20</link>
 </item>
 
 
