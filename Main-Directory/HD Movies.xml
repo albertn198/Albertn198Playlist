@@ -1,7 +1,12 @@
 <poster>HD Movies</poster>
 <fanart>http://www.nottingham.ac.uk/news/pressreleases/2011/october/filmreel.jpg</fanart>
  
- 
+ <item>
+  <title>Everything will be fine</title>
+  <type>movie</type>
+  <thumbnail>http://ia.media-imdb.com/images/M/MV5BNzQ2OTg1MTYwOF5BMl5BanBnXkFtZTgwMTY3MDA2NjE@._V1_SY317_CR2,0,214,317_AL_.jpg</thumbnail>
+  <link>https://accounts.google.com/o/oauth2/postmessageRelay?parent=http%3A%2F%2F123movies.to#rpctoken=921014396&forcesecure=1</link>
+ </item>
  
  <item>
   <title>Fantastic 4</title>
